@@ -97,7 +97,7 @@ const LeftMenu = ({ generalSectionLinks, pluginsSectionLinks }: LeftMenuProps) =
 
   const menuTitle = formatMessage({
     id: 'app.components.LeftMenu.navbrand.title',
-    defaultMessage: 'Strapi Dashboard',
+    defaultMessage: 'Intred Admin Panel',
   });
 
   return (
